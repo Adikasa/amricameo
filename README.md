@@ -22,4 +22,5 @@ Adidaya Kreasi Digital x ✨ bergerak ✨ pada Bidang Konsultan IT, Perancangan 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adikasa&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Adikasa](img/beranda 01.png)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
