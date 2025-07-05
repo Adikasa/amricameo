@@ -22,6 +22,7 @@ Adidaya Kreasi Digital x ✨ bergerak ✨ pada Bidang Konsultan IT, Perancangan 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adikasa&icon=0&color=0)](https://visitcount.itsvg.in)
 
+##HASIL TAMPILAN WEB AUTOBIOGRAFI
 ---
 TAMPILAN BERANDA
 ![amricameo](img/beranda01.png)
